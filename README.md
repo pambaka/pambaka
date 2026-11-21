@@ -4,7 +4,15 @@
 
 ♟️ [LiveChessCloud PGN Exporter](https://pambaka.github.io/livechesscloud-pgn-export/) ♟️
 
-Under construction: copying PGNs is available, PGNs download coming soon
+*A free online tool to export games from LiveChessCloud chess tournaments to PGN*
+
+Under construction:  
+✅ Pick rounds and boards  
+✅ Find a player's games  
+✅ Copy PGNs  
+✅ Download as a single PGN file  
+⬜ ZIP download  
+⬜ Clock time after each move  
 <!--
 **pambaka/pambaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
